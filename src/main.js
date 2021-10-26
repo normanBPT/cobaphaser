@@ -5,7 +5,7 @@ import GameScene from './scenes/Game'
 
 
 const game = new Phaser.Game({
-    width: 450,
+    width: 650,
     height: 500,
     type: Phaser.AUTO,
     physics: {
